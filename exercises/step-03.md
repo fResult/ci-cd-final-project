@@ -1,4 +1,4 @@
-# Exercise 3: Add the test step to CI workflow
+# Step 3: Add the test step to CI workflow
 
 Next, you will add the `Test` step to the GitHub workflow.\
 You will use the `Nose` module for running the tests.\

@@ -1,4 +1,4 @@
-# Exercise 2: Add the linting step to CI workflow
+# Step 2: Add the linting step to CI workflow
 
 Next, you will add the `Lint` step to the GitHub workflow.\
 You will use `Flake8` module for linting.\

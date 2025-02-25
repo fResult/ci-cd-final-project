@@ -1,4 +1,4 @@
-# Exercise 1: Create basic workflow
+# Step 1: Create basic workflow
 
 Your GitHub repository has an empty workflow file, `.github/workflows/workflow.yml.`\
 You will create the CI workflow by writing several steps in this workflow file.
