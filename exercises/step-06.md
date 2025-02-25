@@ -50,6 +50,8 @@ You can also refer to the videos and labs in the module 3 of the course in case 
 
 ### Hint
 
+**You can use the following file as a template for this exercise:**
+
 ```yml
 apiVersion: {placeholder}
 kind: {placeholder}
